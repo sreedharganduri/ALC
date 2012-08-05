@@ -1,0 +1,112 @@
+<div id="intro">
+	<div class="shell">
+		<!-- Slider Holder -->
+		<div class="slider-holder">
+        
+        <ul>
+				<!-- Offer -->
+				<li>
+					<div class="offer-image" style="z-index:1">
+						<img src="css/images/offer-image-1.jpg" alt=""  style="z-index:-1"/>					</div>
+					<!--<div class="offer-data">
+						<h3>Heading</h3>
+						
+						<div class="entry">
+							<p>Our people come from all over the world, with a broad diversity of educational and professional backgrounds</p>
+							<p>all bound by a shared passion for problem solving and a drive to have significant impact in the world.</p>
+						</div>
+						
+						<div class="buttons">
+							<a href="#" class="button"><span>Read More</span></a>
+						</div>
+					</div> -->
+				</li>
+				<!-- /Offer -->
+				
+				<!-- Offer -->
+				<li>
+					<div class="offer-image">
+						<img src="css/images/offer-image-2.jpg" alt="" />					</div>
+					<div class="offer-data">
+						<h3>Heading</h3>
+						
+						<div class="entry">
+							<p>Our people come from all over the world, with a broad diversity of educational and professional backgrounds</p>
+							<p>all bound by a shared passion for problem solving and a drive to have significant impact in the world.</p>
+						</div>
+						
+						<div class="buttons">
+							<a href="#" class="button"><span>Read More</span></a>						</div>
+					</div>
+				</li>
+				<!-- /Offer -->
+				
+				<!-- Offer -->
+				<li>
+					<div class="offer-image">
+						<img src="css/images/offer-image-3.jpg" alt="" />					</div>
+					<div class="offer-data">
+						<h3>Heading</h3>
+						
+						<div class="entry">
+							<p>Our people come from all over the world, with a broad diversity of educational and professional backgrounds</p>
+							<p>all bound by a shared passion for problem solving and a drive to have significant impact in the world.</p>
+						</div>
+						
+						<div class="buttons">
+							<a href="#" class="button"><span>Read More</span></a>						</div>
+					</div>
+				</li>
+				<!-- /Offer -->
+				
+				<!-- Offer -->
+				<li>
+					<div class="offer-image">
+						<img src="css/images/offer-image-4.jpg" alt="" />					</div>
+					<div class="offer-data">
+						<h3>Heading</h3>
+						
+						<div class="entry">
+							<p>Our people come from all over the world, with a broad diversity of educational and professional backgrounds</p>
+							<p>all bound by a shared passion for problem solving and a drive to have significant impact in the world.</p>
+						</div>
+						
+						<div class="buttons">
+							<a href="#" class="button"><span>Read More</span></a>						</div>
+					</div>
+				</li>
+				<!-- /Offer -->
+				
+				<!-- Offer -->
+				<li>
+					<div class="offer-image">
+						<img src="css/images/offer-image-5.jpg" alt="" />					</div>
+					<div class="offer-data">
+						<h3>Heading</h3>
+						
+						<div class="entry">
+							<p>Our people come from all over the world, with a broad diversity of educational and professional backgrounds</p>
+							<p>all bound by a shared passion for problem solving and a drive to have significant impact in the world.</p>
+						</div>
+						
+						<div class="buttons">
+							<a href="#" class="button"><span>Read More</span></a>						</div>
+					</div>
+				</li>
+				<!-- /Offer -->
+			</ul>
+		</div>
+		<!-- /Slider Holder -->
+		<!-- Slider Navigation -->
+		<div class="slider-navigation">
+			<ul>
+				<li><a href="#">1</a></li>
+				<li><a href="#">2</a></li>
+				<li><a href="#">3</a></li>
+				<li><a href="#">4</a></li>
+				<li><a href="#">5</a></li>
+			</ul>
+		</div>
+		<!-- /Slider Navigation -->
+	</div>
+</div>
